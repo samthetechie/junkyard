@@ -1,5 +1,16 @@
-Emoncms examples
+  ___ _ __ ___   ___  _ __     ___ _ __ ___  ___ 
+ / _ \ '_ ` _ \ / _ \| '_ \   / __| '_ ` _ \/ __|
+|  __/ | | | | | (_) | | | | | (__| | | | | \__ \
+ \___|_| |_| |_|\___/|_| |_|  \___|_| |_| |_|___/
+ 
+Deployment Instructions
+=======================
+1. To make example 7 work, copy (not rename!) "\7graph\includes\default.settings.php" to "\7graph\includes\settings.php"
+//2. To make example 6 work, rename \7graph\includes "default.settings.php" to "settings.php"
 
+
+About the Examples
+==================
 0) Index flow
 An example of the several stages that emoncms goes through when index is called. 
 
@@ -11,6 +22,6 @@ An example of page piping to a module
 3) Plus user
 User implementation 
 
-4) Plus setup
 Automatic database table setup if no tables exist
+4) Plus setup
 
