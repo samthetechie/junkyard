@@ -14,3 +14,10 @@ User implementation
 4) Plus setup
 Automatic database table setup if no tables exist
 
+---------------------------------------------------------------------------------
+5) feed01: Feed implementation part 1: user interface part
+
+6) feed02: Feed implementation part 2: API for posting data from sensing hardware (nanode)
+
+7) feed03: Feed implementation part 3: Feed visualisation using flot graphing 
+
