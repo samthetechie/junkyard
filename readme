@@ -1,0 +1,16 @@
+Emoncms examples
+
+0) Index flow
+An example of the several stages that emoncms goes through when index is called. 
+
+1) Page piper
+An example of page piping to a module
+
+2) Plus db
+
+3) Plus user
+User implementation 
+
+4) Plus setup
+Automatic database table setup if no tables exist
+
